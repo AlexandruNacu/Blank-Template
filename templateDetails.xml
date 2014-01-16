@@ -3,7 +3,7 @@
 
 <extension version="2.5" type="template" client="site" method="upgrade">
 	
-	<name>frontend</name><!-- name the template -->
+	<name>Starter</name><!-- name the template -->
 	<creationDate>2014-01-16</creationDate><!-- the date your are beginn to code -->
 	<author>StarterStudio</author><!-- your name (oops, I repeat myself) -->
 	<copyright>Copyright © StarterStudio.net</copyright><!-- for who you are coding -->
