@@ -27,7 +27,7 @@ include_once JPATH_THEMES.'/'.$this->template.'/logic.php'; // load logic.php
 <body class="<?php echo (($menu->getActive() == $menu->getDefault()) ? ('front') : ('page')).' '.$active->alias.' '.$pageclass; ?>">
   
   <!-- 
-    YOUR CODE HERE
+    YOUR CODE HERE.!.
   -->
   <jdoc:include type="modules" name="debug" />
 </body>
